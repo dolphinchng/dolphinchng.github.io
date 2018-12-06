@@ -4,6 +4,7 @@ update: 2018-2-12 20:12:03
 title: Hexo博客提交至Google搜索引擎
 tags: 
 categories: seo
+comments: false
 ---
 ## 验证你的网站是否被谷歌搜索收录
 
